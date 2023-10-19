@@ -1,5 +1,5 @@
 # FTA-DETR
-
+Download links to the fire dataset and more detailed training commands will be uploaded as soon as the paper is published.
 ## Installation
 
 ### Requirements
@@ -107,5 +107,3 @@ You can get the config file and pretrained model of FTA-DETR (the link is in "Ma
 
 You can also run distributed evaluation by using ```./tools/run_dist_launch.sh``` or ```./tools/run_dist_slurm.sh```.
 
-
-Download links to the datasets and detailed training commands will be uploaded as soon as the paper is published.
